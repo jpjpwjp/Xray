@@ -44,7 +44,8 @@
 # 文档
 
 安装及使用：https://233boy.com/xray/xray-script/
-wget https://github.com/jpjpwjp/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
+
+安装链接：wget https://github.com/jpjpwjp/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
 
 # 帮助
 
